@@ -17,3 +17,4 @@ function sortear(){
 
 randomizarBtn.addEventListener("click", sortear);
 
+
